@@ -1,6 +1,4 @@
-﻿using EmployeeManagementSystem;
-using static EmployeeManagementSystem.Employee;
-namespace EmployeeManagementSystem;
+﻿namespace EmployeeManagementSystem;
 public class Program
 {
     public static void Main(string[] args)
